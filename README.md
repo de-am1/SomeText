@@ -1,2 +1,2 @@
 # SomeText
-Hosted text
+Hosted text for avatar modded by me.
