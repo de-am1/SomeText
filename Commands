@@ -1,10 +1,239 @@
-A.
-B.
-c.
-D.
-E.
-F.
-G.
-H.
-I.
-J.
+COMMANDS :@cmd= show all commands
+********************TELEPORT********************
+
+K/ = change khu
+@jail = teleport to Prison
+@centerpark = teleport to center park
+@wedd = teleport to wedding area
+@beach = teleport to beach
+@airport = teleport to airport
+@park = teleport to park street
+@doctor = teleport to doctor
+@spin = teleport to spin
+@home = teleport to home
+@dance = teleport to lobby dance
+@petrace = teleport to pet racing
+@dc = teleport to dance club
+/hom = teleport to inside home
+
+********************AUTO*************************
+
+Autochat:
+set: = set content chat
+Tm/ = set time delay
+/on = Autochat on
+/off = Autochat off
+
+Auto farm:
+/p = harvest all crops
+T/ = harvest and then plant by ID
+Cabut/ = revoke and plant
+/hama = remove bugs
+/cbt = revoke all plants
+@f: = use for auto farm with afk
+/egg = harvest egg and milk
+/feed = feed farm
+/heal = heal green chicken etc.
+/tonic = apply vaksin
+
+Auto Action:
+(Visible to other players):
+Aa/ = action with other player
+Ab/ = action with other player (if faster use this)
+Ac/ = action with other player (if faster use this)
+Ad/ = action with other player (if faster use this)
+Ba/ = action to yourslef
+Sa/ = sit actions
+/jump = jump to nearest player
+P/ = play action
+Fc/ = face emotion
+/frnd = add friend without knowing
+/cpan = accept couple without knowing
+
+(Invisible to other players):
+A/ = action to yourslef
+B/ = action with other player
+/j = teleport to nearest player
+S/ = change standing style
+st/ = change state default
+
+********************OHERS*************************
+
+Display:
+U/ = Using item ID
+/csize: = change avatar size 1-8
+/copy = copy target style
+/copyy = copy target style (with fam)
+/clone = change everyone to look like me you
+/vipic = change vip icon
+/famic = change fam icon
+/ric = change ring icon
+/allic = change all icon
+W/ = change wearing
+coin/ = add coins
+gem/ = add gems
+Name/ = change your name
+NameColor/ = change name color
+
+Others:
+>sms: = send pm to others
+/wea: = change weather
+/cboy: = change to boy
+/girl: = change to girl
+/gip: = gift selected item to girl
+/gip1: = gift selected item to boy
+spin0/ = spin 1 gem with item id
+spin1/ = spin 10 gem with item id
+spin2/ = spin 15k coin with item id
+uppjew/ = upgrade jewel coin with id
+uppjel/ = upgrade jewel gem with id
+/box = open box
+Buyjewel/ = buy jewel with id
+/gip = gift selected item to girl
+/gip1 = gift selected item to boy
+@show = show what target is wearing
+
+********************DEBUG*************************
+
+/hidem = hide mod menu
+@restart = restart game
+/reload = reload
+/clock = show clock
+/refresh = quit action
+profile/ = show people profile with id
+@devicepm = show your device IMEI and deviceID
+@devicelog = show your device IMEI and deviceID in debug log
+@loginpm = show your login info in pm
+@loginlog = show your login info in debug log
+@testad = test ads
+@listplayer = list all player in this area
+*adm$pclog! = show pc log
+*adm$debug! = show debug text
+*adm$debuglog! = show debug text in pm
+*adm$sv! = change to serverTest mode
+*adm$rms! = delete all game data
+&vrmode# = enter VR camera mode
+&gyromode# = enter Gyroscope camera mode
+&camera# = enter Camera mode
+
+********************Events*************************
+
+Now :
+Pocong/ = hit pocong with id
+@c = catch ketupat
+
+Old :
+/entong = interact with entong
+/fish = auto fishing
+/ketu = catch ketupat
+@crab = catch crab
+/mie = interact with mie
+@br = catch beras
+/beras = catch beras
+/wort1 = catch wortel
+/wort = catch wortel
+/ra = unknown
+/wor = catch wortel
+/cwor = catch wortel
+/gar = exchange garnet in npc
+/ktp = exchange ketupat in npc
+/by = unknown
+
+tr1xy.
+
+
+ID ITEM :
+
+Ambassador crown:1062
+Set vip7 girl:2105-2108
+Set vip7 boy:2109-2113
+Set goku v6: 1333-1335
+Miku v6: 1355-1358
+Wing v6:1477
+Men's v5 fish set:1119-1121
+Set of female v5 fish :1088-1090
+Set vip4 bear:1115-1118 +bear 1130-1131
+Men's v4 bear set:1126-1131
+Pink bear set:1577-1579
+Blue bear set:1014-1016
+Purple Wing 1000gem:1056Kid:829-831
+Burning lantern :842-844
+Queen of Egypt : 1141-1144
+Sk female cupid :1696-1700
+Sk male cupid:1701-1705
+Side of the hack:1843-1844 (topeng anonymous)
+New Skate Women:1846-1849 
+Love the male lucky lake:2177-2184
+Female lucky fox:2184-2190+earn 2181
+Female card leader Sk:1884-1887
+Sk inuzasa nam: 2191-2193
+Women's Sk inuzasa :2194-2197
+Platform:2198 Sword Inuzasa:2193
+Women's style roller:1977
+Men's style roller:1978
+Sk of the male card leader: 1888-1892
+Army of the Dead:1853-1855
+Batman:1856-1859
+Male Guard Sk:1728-1732
+Skate female bodyguard:1739-1743
+Male Robocop:1801-1805
+Female Robocop :1806-1810
+Women's Skating :1688-1691
+Sk chickens male:1692-1695
+Skateboarding female: 1659-1662
+Sk lost drift male:1656-1658
+Witches:1596-1598
+Sk Ma mallet:1559-1563
+Heart stick:1445
+Winged pink staff :1325
+Galaxy Ball:2126
+Bubbles :2131/1655
+Gold :1683
+Golden dating flower :1718
+Monster Prince :1783-1786
+Sk shoes teen girls:1146
+Sk shoes teen boys:1147
+Sk girl holding a gun with one eye:2018-2020
+SK boys holding guns to tie multiple bundles: 2022-2025
+Female black panther (purple) 2298-2300 (blue)2292-2394
+Male Black Panther:(Purple) 2289-2291(Black)2286-2288 
+Male adventurer:2320-2323
+Female adventurer:2316-2319
+Female Singer: 1966-1969 + 1974
+Thor:952-953Sk female…:944-946
+Male Spider-Man:2378-2381
+Female Supermen:2096-2099
+Supper men nam:2139-2142
+SK horned girl :2093-2095
+Empress Chuyen Khong female:1675-1678
+His Majesty travels through space :1662-1666 +1678
+Bich Phuong:2390-2392
+Son Tung:2393-2396
+Female suicide :1377-1380
+Male suicide:1373-1376
+Miku: 1371-1373
+GOku:1333-1335
+Goku :1339-1343
+Sailor Moon: 970-974
+She chi ro mask:1392-1394
+Moon Princess:1389-1391
+Ap bo pen:1571-1575
+Prince Tam Tam:1234-1237
+Mister:1238-1241
+Sister plate: 1219-1220
+Sister :1322-1324
+Men's football:1243-1260
+Women's football:1261-1292
+Male monster:937
+SK Halloween 100k nam:2029-2032
+Sk Halloween 100k female:2033-2036
+Monster Wolf :2037
+Baybe:961-964 + with baby:1626
+Crown phone number:1062 
+Wing vsip.... 1293/1382/1782/2368/2009/2104/ 1293/1202/1214/2038/1472/1723
+1148/1149/1180/1171/1981/1358/2324/2163/2164/1576/1525… 
+1845 : pocong
+2701 - 2704 : valak
+937 : Zombie Boss
+
+Aksi jembatan : P/295
