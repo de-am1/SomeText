@@ -28,3 +28,12 @@
 `Features : @quiz @funfact @personality @aboutme @live
 `Choose a quiz : #funny #math #history #sains
 `Choose level : #easy #hard #gift, #stopquiz to stop
+`@quiz
+`#math
+`#easy
+`#hard
+`Choose a quiz first!
+`#stopquiz
+`###quiz stopped
+`#gift
+`This feature only for real time quiz!
