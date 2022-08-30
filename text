@@ -37,3 +37,32 @@
 `###quiz stopped
 `#gift
 `This feature only for real time quiz!
+`@funfact
+`Welcome to @funfact for most unic facts
+`Type #startfact to start, type #stopfact to stop.
+`#startfact
+`Choose a feature first!
+`#stopfact
+`###funfact stopped
+`@personality
+`Who are you?
+`Find out who you are with this tests.
+`Type #startp to start, type #stopp to stop.
+`#startp
+`#stopp
+`###personality stopped
+`type answer from A or B
+`Which one is came first in your mind
+`A.Bird B.Cat
+`A.Car B.Motorcycle
+`A.Work at office B.Work at home
+`A.Meeting friends B.Meeting girlfriend
+`A.Going to mall B.Going to market
+`A.Facebook B.Instagram
+`A.Using a plane B.Using a ship
+`A.Fly B.Walk
+`A.Eat meat B.Eat Vegetables
+`A.Rule B.Ruled
+`A.No house B.Lost in forest
+`A.Topup game B.Saving
+
