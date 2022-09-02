@@ -62,7 +62,33 @@
 `A.Using a plane B.Using a ship
 `A.Fly B.Walk
 `A.Eat meat B.Eat Vegetables
-`A.Rule B.Ruled
+`A.Cry B.Laugh
 `A.No house B.Lost in forest
 `A.Topup game B.Saving
+`bird
+`cat
+`car
+`motorcycle
+`office
+`home
+`friends
+`girlfriend
+`mall
+`market
+`facebook
+`instagram
+`plane
+`ship
+`fly
+`walk
+`meat
+`vegetables
+`cry
+`laugh
+`house
+`forest
+`game
+`saving
+`Done! Type #result to check your result
+`#result
 
