@@ -1,8 +1,8 @@
 {
 "version": "1.0.1",
 "title": "Update Available!",
-"downloadLink": "https://www.instagram.com/t_r1xy",
-"positivebtn": "Update Now",
-"message": "Please update your app to enjoy new features.",
-"negativebtn": "Later"
+"message": "Please update your app to enjoy new features(°•°)",
+"negativeBtn": "Later",
+"positiveBtn": "Update Now",
+"getLink": "https://www.instagram.com/t_r1xy"
 }
